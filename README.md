@@ -1,2 +1,0 @@
-# myRepsChart
-Created with CodeSandbox
